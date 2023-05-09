@@ -1,0 +1,9 @@
+.toolbar{
+    display: flex;
+    flex-direction: row;
+    margin: 0.3rem;
+}
+.toolbar button{
+    margin: 0.3rem;
+    font-weight: bold;
+}
